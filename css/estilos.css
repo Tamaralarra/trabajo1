@@ -1,7 +1,15 @@
-body {background-color:#FFE4B5;}
+ body {background-color:#FFE4B5;
+    background-image:url(../imagenes/fondococina.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;}
 h1 {font-size: 48px;text-decoration: underline;text-align: center; font-weight: 1000;}
 H2 {font-size: 30px;text-align: center; text-decoration: underline;font-style: italic;}
 li {font-size: 18px;color: #0303b5;text-align:center; font-weight: bolder;}
-img {width: 800px; height: 280px;margin-left: 230px ;}
+img {width: 400px; height: 200px;margin-left: 420px ;}
 p {font-size: 18px; color: #0303b5;text-align: center; font-weight:bolder;}
 .video {padding-left: 350px;}
+.whatsapp {width: 100px;  height:90px;}
+.instagram {width: 100px;  height:90px; padding-top: 100px;}
+.facebook {width: 100px;  height:90px;}
+.tiktok {width: 100px;  height:90px;}
